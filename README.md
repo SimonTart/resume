@@ -6,10 +6,10 @@
 # 个人信息
  - 曾学兵/男/1994
  - 本科/西南大学 计算机与信息科学学院 软件工程专业
+ - 期望职位：前端开发 Node开发
  - 工作年限：3年正式+1年实习
  - 技术博客：[http://blog.trisolar.top/](http://blog.trisolar.top/)
  - Github：[https://github.com/SimonTart](https://github.com/SimonTart)
- - 期望职位：前端开发 Node开发
  - 期望城市：成都
 
 
