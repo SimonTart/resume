@@ -18,8 +18,9 @@
 # 技能清单
 - 熟悉HTML、CSS、JavaScript(包含ES6)
 - 熟悉Webpack、Gulp、React以及React生态
-- 了解并实践过Node、Express
-- 了解并实践过Vue Angular
+- 熟悉Node、Express
+- 熟悉less，sass
+- 了解Vue Angular
 - 了解并使用过TypeSctipt
 - 了解并简单使用过Python
 - 了解Java并简单使用过Spring Boot
