@@ -1,4 +1,5 @@
 # 求职：前端开发, Node开发
+目前人在杭州，5月中下旬回成都，希望能支持远程面试
 
 # 联系方式
 - Email：zengxb94@foxmail.com
@@ -12,18 +13,18 @@
  - 技术博客：[http://blog.trisolar.top/](http://blog.trisolar.top/)
  - Github：[https://github.com/SimonTart](https://github.com/SimonTart)
  - 期望城市：成都
- - 目前人在杭州，5月中下旬回成都，希望能支持远程面试
 
 
 # 技能清单
-- 熟悉HTML、CSS、JavaScript(包含ES6)
-- 熟悉Webpack、Gulp、React以及React生态
+- 熟悉HTML、CSS、JavaScript(包含ES6+)
+- 熟悉Webpack、Gulp、React以及React生态、Redux
 - 熟悉Node、Express
-- 熟悉less，sass
-- 了解Vue Angular
-- 了解并使用过TypeSctipt
-- 了解并简单使用过Python
-- 了解Java并简单使用过Spring Boot
+- 熟悉less、sass、Bootstrap、jQuery
+- 熟悉Git
+- 了解并简单实践过Vue Angular
+- 了解并简单实践过TypeSctipt
+- 了解并简单实践过Python
+- 了解Java并简单实践过Spring Boot
 
 
 # 工作经历
