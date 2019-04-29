@@ -12,7 +12,7 @@
  - 技术博客：[http://blog.trisolar.top/](http://blog.trisolar.top/)
  - Github：[https://github.com/SimonTart](https://github.com/SimonTart)
  - 期望城市：成都
-
+ - 目前人在杭州，5月中下旬回成都，希望能支持远程面试
 
 
 # 技能清单
