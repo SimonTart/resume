@@ -74,6 +74,7 @@
 # 开源项目和作品
 ## 爬取A站文章、视频、评论
 [https://github.com/SimonTart/AcFun-CIP-Observer](https://github.com/SimonTart/AcFun-CIP-Observer)
+
 利用Python抓取A站的文章区，视频区内容以及这两个区下的所有评论
 1. 可以稳定持续的抓取A站内容，每分钟抓取一次
 2. 通过ip代理池绕过A站的请求频率限制
@@ -82,15 +83,18 @@
 主要使用了Python,Request,MySQL技术站
 
 [https://github.com/SimonTart/AcFun-CIP-Extension](https://github.com/SimonTart/AcFun-CIP-Extension)
+
 使用TypeScript开发的用于恢复A站被删除的评论的插件，支持Chrome和Firefox。
 通过查询爬取的A站评论信息，在浏览A站时，可以恢复被删除的评论
 
 
 [https://github.com/SimonTart/AcFun-CIP-Official-Site](https://github.com/SimonTart/AcFun-CIP-Official-Site)
+
 使用Angular和TypeScript开发的用于介绍和下载插件，并且可以查询A站用户的历史评论记录的网站。
 
 ## VSCode插件
 [https://github.com/SimonTart/color-variable-replace](https://github.com/SimonTart/color-variable-replace)
+
 将Sass，Less文件中的十六进制和RGB颜色值替换为指定文件中的颜色变量，并且在输入十六进制和RGB颜色值的时候提示颜色变量名。
 
 
