@@ -1,5 +1,4 @@
 # 求职：前端开发, Node开发
-目前人在杭州，5.20号回成都
 
 # 联系方式
 - Email：zengxb94@foxmail.com
