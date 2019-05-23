@@ -39,7 +39,7 @@
 主要负责了公司的两个外包项目的前期技术调研，协调沟通，任务分配，项目基础结构的搭建以及部分模块的开发。主要使用了React,AntDesign，Git,Webpack等技术栈
 
 
-## 北京亚斯科技有限公司 （ 2017年3月 ~ 2017年12月 ）前端开发工程师
+## 北京希瑞亚斯科技有限公司 （ 2017年3月 ~ 2017年12月 ）前端开发工程师
 ### Moka智能招聘管理系统
 一款专注于帮助HR提高招聘效率的智能化招聘管理系统，作为Sass服务提供给其他企业使用。我主要负责产品的Chrome插件、系统人才库、Dashboard等模块的前后端开维护发工作。系统前端使用React，后端使用Node、Express进行开发。开发过程中我主动对系统相关的动画效果进行调优，让动画效果更加流畅，并且我通过下班时间开发[VSCode颜色变量替换插件](https://github.com/SimonTart/color-variable-replace)解决了开发过程中困扰自己和同事的小问题，提高了大家的开发效率。
 主要使用了React,React-Router,Redux,Git,Express,Knex,Webpack,MySQL等技术栈
